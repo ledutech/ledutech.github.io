@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The World of Static Site Generators!
 
 You can use the [editor on GitHub](https://github.com/ledutech/ledutech.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
